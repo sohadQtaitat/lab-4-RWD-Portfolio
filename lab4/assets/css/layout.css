@@ -484,28 +484,13 @@ table {
 				margin-left: 300px;
 			}
 
-	}
 
-/* Normal */
 
-	@media screen and (min-width: 961px) and (max-width: 1620px) {
+    }
+    
 
-		/* Main */
 
-			#main > section {
-				padding: 3em 0;
-			}
-
-			#main section.cover {
-				padding: 5em 0;
-				
-				
-
-			}
-
-			
-	}
-
+    
 /* Narrow */
 
 	@media screen and (min-width: 961px) and (max-width: 1320px) {
@@ -558,6 +543,27 @@ table {
 						margin-left: -1.25em;
 						line-height: 2.25em;
 					}
+
+
+/* Normal */
+
+	@media screen and (min-width: 961px) and (max-width: 1620px) {
+
+		/* Main */
+
+			#main > section {
+				padding: 3em 0;
+			}
+
+			#main section.cover {
+				padding: 5em 0;
+				
+				
+
+			}
+
+			
+	}
 
 		/* Footer */
 
