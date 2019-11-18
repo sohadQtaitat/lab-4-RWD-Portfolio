@@ -9,7 +9,14 @@
 
 
 
-
+video{
+    position: absolute;
+     top: 0;
+    right: 0 ;
+    width: 1040px;
+    /* z-index: -1; */
+    opacity: 0.5;
+    }
 
 
 
